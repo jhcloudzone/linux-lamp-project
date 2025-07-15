@@ -10,7 +10,7 @@
 - Ubuntu Server 22.04
 - Apache2
 - MariaDB
-- PHP 8
+- PHP
 - WordPress
 
 ## 專案目標
